@@ -13999,11 +13999,11 @@
             "section": "Christmas",
             "name": "Sled Key",
             "price": {
-                "min": 60000,
-                "max": 70000
+                "min": 45000,
+                "max": 55000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "29/May/2023",
             "url": "cars/177"
         }
     },
