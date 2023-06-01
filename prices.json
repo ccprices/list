@@ -10922,11 +10922,11 @@
             "section": "Halloween",
             "name": "Ghost Designed Jacket",
             "price": {
-                "min": 5000,
-                "max": 10000
+                "min": 4000,
+                "max": 8000
             },
             "state": "Decreasing",
-            "last_updated": "25/May/2023",
+            "last_updated": "01/Jun/2023",
             "url": "wearables/IMG_810"
         }
     },
