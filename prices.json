@@ -9477,11 +9477,11 @@
             "section": "Halloween",
             "name": "Pumpkin Pack",
             "price": {
-                "min": 65000,
-                "max": 75000
+                "min": 90000,
+                "max": 110000
             },
             "state": "Stable",
-            "last_updated": "19/Feb/2023",
+            "last_updated": "01/Jun/2023",
             "url": "wearables/IMG_380"
         }
     },
