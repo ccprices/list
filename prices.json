@@ -9970,11 +9970,11 @@
             "section": "Halloween",
             "name": "Pumpkin Head",
             "price": {
-                "min": 1000,
-                "max": 1500
+                "min": 800,
+                "max": 1200
             },
             "state": "Stable",
-            "last_updated": "24/Apr/2023",
+            "last_updated": "01/Jun/2023",
             "url": "wearables/IMG_176"
         }
     },
