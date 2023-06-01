@@ -5057,11 +5057,11 @@
             "section": "April Fools' Day",
             "name": "Broken Glasses",
             "price": {
-                "min": 1500,
-                "max": 2500
+                "min": 1200,
+                "max": 1800
             },
             "state": "Stable",
-            "last_updated": "18/Mar/2023",
+            "last_updated": "01/Jun/2023",
             "url": "wearables/IMG_657"
         }
     },
