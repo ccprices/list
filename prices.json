@@ -3272,11 +3272,11 @@
             "section": "Quest",
             "name": "Doc's Mirror",
             "price": {
-                "min": 320000,
-                "max": 360000
+                "min": 280000,
+                "max": 320000
             },
             "state": "Stable",
-            "last_updated": "25/Feb/2023",
+            "last_updated": "03/Jun/2023",
             "url": "wearables/IMG_151"
         }
     },
@@ -17099,6 +17099,244 @@
             "state": "Stable",
             "last_updated": "02/Jun/2023",
             "url": "fish/395"
+        }
+    },
+    {
+        "type": {
+            "name": "SINDROOME",
+            "section": "VIRUS2"
+        },
+        "item": {
+            "section": "Virus",
+            "name": "Sindroome",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "virus/234"
+        }
+    },
+    {
+        "type": {
+            "name": "QBERIA",
+            "section": "VIRUS2"
+        },
+        "item": {
+            "section": "Virus",
+            "name": "QBeria",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "virus/235"
+        }
+    },
+    {
+        "type": {
+            "name": "SPIKENOSIS",
+            "section": "VIRUS2"
+        },
+        "item": {
+            "section": "Virus",
+            "name": "Spikenosis",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "virus/236"
+        }
+    },
+    {
+        "type": {
+            "name": "QFLU",
+            "section": "VIRUS2"
+        },
+        "item": {
+            "section": "Virus",
+            "name": "QFlu",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "virus/237"
+        }
+    },
+    {
+        "type": {
+            "name": "NOROBORO",
+            "section": "VIRUS2"
+        },
+        "item": {
+            "section": "Virus",
+            "name": "Noroboro",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "virus/238"
+        }
+    },
+    {
+        "type": {
+            "name": "PHAGEE",
+            "section": "VIRUS2"
+        },
+        "item": {
+            "section": "Virus",
+            "name": "Phagee",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "virus/239"
+        }
+    },
+    {
+        "type": {
+            "name": "QBOLEE",
+            "section": "VIRUS2"
+        },
+        "item": {
+            "section": "Virus",
+            "name": "QBolee",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "virus/240"
+        }
+    },
+    {
+        "type": {
+            "name": "RAYBEE",
+            "section": "VIRUS2"
+        },
+        "item": {
+            "section": "Virus",
+            "name": "Raybee",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "virus/241"
+        }
+    },
+    {
+        "type": {
+            "name": "SOOTH SALVE",
+            "section": "VIRUS2"
+        },
+        "item": {
+            "section": "Virus",
+            "name": "Sooth Salve",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "virus/242"
+        }
+    },
+    {
+        "type": {
+            "name": "THERMOMETER",
+            "section": "VIRUS2"
+        },
+        "item": {
+            "section": "Virus",
+            "name": "Thermometer",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "virus/243"
+        }
+    },
+    {
+        "type": {
+            "name": "TISSUE",
+            "section": "VIRUS2"
+        },
+        "item": {
+            "section": "Virus",
+            "name": "Tissue",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "virus/244"
+        }
+    },
+    {
+        "type": {
+            "name": "SPRAY KLEEN",
+            "section": "VIRUS2"
+        },
+        "item": {
+            "section": "Virus",
+            "name": "Spray Kleen",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "virus/245"
+        }
+    },
+    {
+        "type": {
+            "name": "COMPOUND X",
+            "section": "VIRUS2"
+        },
+        "item": {
+            "section": "Virus",
+            "name": "Compound X",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "virus/246"
+        }
+    },
+    {
+        "type": {
+            "name": "COMPOUND Y",
+            "section": "VIRUS2"
+        },
+        "item": {
+            "section": "Virus",
+            "name": "Compound Y",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "virus/247"
         }
     }
 ]
