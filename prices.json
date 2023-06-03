@@ -9477,11 +9477,11 @@
             "section": "Halloween",
             "name": "Pumpkin Pack",
             "price": {
-                "min": 90000,
-                "max": 110000
+                "min": 100000,
+                "max": 150000
             },
             "state": "Increasing",
-            "last_updated": "01/Jun/2023",
+            "last_updated": "03/Jun/2023",
             "url": "wearables/IMG_380"
         }
     },
@@ -15858,6 +15858,1247 @@
             "state": "Stable",
             "last_updated": "14/Apr/2023",
             "url": "stores/00832_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "GENTLEFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Gentlefish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/263"
+        }
+    },
+    {
+        "type": {
+            "name": "BEAKFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Beakfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/264"
+        }
+    },
+    {
+        "type": {
+            "name": "PARROTFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Parrotfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/265"
+        }
+    },
+    {
+        "type": {
+            "name": "QBEEFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Qbeefish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/266"
+        }
+    },
+    {
+        "type": {
+            "name": "TOOTHFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Toothfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/267"
+        }
+    },
+    {
+        "type": {
+            "name": "SPUDFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Spudfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/268"
+        }
+    },
+    {
+        "type": {
+            "name": "BIGEYE",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Bigeye",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/269"
+        }
+    },
+    {
+        "type": {
+            "name": "WAILFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Wailfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/270"
+        }
+    },
+    {
+        "type": {
+            "name": "ELFFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Elffish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/280"
+        }
+    },
+    {
+        "type": {
+            "name": "SANTAFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Santafish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/281"
+        }
+    },
+    {
+        "type": {
+            "name": "ANGELFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Angelfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/282"
+        }
+    },
+    {
+        "type": {
+            "name": "CIRCLEFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Circlefish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/283"
+        }
+    },
+    {
+        "type": {
+            "name": "CRYSTALFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Crystalfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/284"
+        }
+    },
+    {
+        "type": {
+            "name": "FANCYFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Fancyfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/285"
+        }
+    },
+    {
+        "type": {
+            "name": "FIREFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Firefish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/286"
+        }
+    },
+    {
+        "type": {
+            "name": "FLATFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Flatfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/287"
+        }
+    },
+    {
+        "type": {
+            "name": "FROSTFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Frostfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/288"
+        }
+    },
+    {
+        "type": {
+            "name": "GOLDENFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Goldenfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/289"
+        }
+    },
+    {
+        "type": {
+            "name": "LAZYFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Lazyfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/290"
+        }
+    },
+    {
+        "type": {
+            "name": "MAGMAFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Magmafish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/291"
+        }
+    },
+    {
+        "type": {
+            "name": "ONEEYEDFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "OneEyedfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/292"
+        }
+    },
+    {
+        "type": {
+            "name": "ROBOFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Robofish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/293"
+        }
+    },
+    {
+        "type": {
+            "name": "SEAWEEDFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Seaweedfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/294"
+        }
+    },
+    {
+        "type": {
+            "name": "SILVERFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Silverfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/295"
+        }
+    },
+    {
+        "type": {
+            "name": "SLIMEFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Slimefish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/296"
+        }
+    },
+    {
+        "type": {
+            "name": "SPIKYFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Spikyfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/297"
+        }
+    },
+    {
+        "type": {
+            "name": "SQUAREFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Squarefish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/298"
+        }
+    },
+    {
+        "type": {
+            "name": "THREEEYEDFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "ThreeEyedfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/299"
+        }
+    },
+    {
+        "type": {
+            "name": "TRIANGLEFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Trianglefish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/300"
+        }
+    },
+    {
+        "type": {
+            "name": "UNICORNFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Unicornfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/301"
+        }
+    },
+    {
+        "type": {
+            "name": "YELLOW BOXFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Yellow Boxfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/302"
+        }
+    },
+    {
+        "type": {
+            "name": "ARCTICFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Arcticfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/303"
+        }
+    },
+    {
+        "type": {
+            "name": "CAMERAFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Camerafish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/304"
+        }
+    },
+    {
+        "type": {
+            "name": "COWFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Cowfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/305"
+        }
+    },
+    {
+        "type": {
+            "name": "FEWBEEFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Fewbeefish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/306"
+        }
+    },
+    {
+        "type": {
+            "name": "GUARDIANFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Guardianfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/307"
+        }
+    },
+    {
+        "type": {
+            "name": "ICEFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Icefish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/308"
+        }
+    },
+    {
+        "type": {
+            "name": "MEWBEEFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Mewbeefish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/309"
+        }
+    },
+    {
+        "type": {
+            "name": "PIGFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Pigfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/310"
+        }
+    },
+    {
+        "type": {
+            "name": "PIRATEFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Piratefish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/311"
+        }
+    },
+    {
+        "type": {
+            "name": "RAINBOWFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Rainbowfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/312"
+        }
+    },
+    {
+        "type": {
+            "name": "SENSEIFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Senseifish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/313"
+        }
+    },
+    {
+        "type": {
+            "name": "SNOWFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Snowfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/314"
+        }
+    },
+    {
+        "type": {
+            "name": "STINGFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Stingfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/315"
+        }
+    },
+    {
+        "type": {
+            "name": "SURFERFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Surferfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/316"
+        }
+    },
+    {
+        "type": {
+            "name": "TORPEDOFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Torpedofish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/317"
+        }
+    },
+    {
+        "type": {
+            "name": "BIG WHALE",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Big Whale",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/318"
+        }
+    },
+    {
+        "type": {
+            "name": "RABBITFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Rabbitfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/320"
+        }
+    },
+    {
+        "type": {
+            "name": "EGGFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Eggfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/321"
+        }
+    },
+    {
+        "type": {
+            "name": "BULLYFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Bullyfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/341"
+        }
+    },
+    {
+        "type": {
+            "name": "ANCIENTFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Ancientfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/342"
+        }
+    },
+    {
+        "type": {
+            "name": "CRAZYFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Crazyfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/343"
+        }
+    },
+    {
+        "type": {
+            "name": "CORPSEFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Corpsefish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/344"
+        }
+    },
+    {
+        "type": {
+            "name": "BONEFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Bonefish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/345"
+        }
+    },
+    {
+        "type": {
+            "name": "HALLOWEENFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Halloweenfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/346"
+        }
+    },
+    {
+        "type": {
+            "name": "EELK",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Eelk",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/347"
+        }
+    },
+    {
+        "type": {
+            "name": "HEADLESSFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Headlessfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/348"
+        }
+    },
+    {
+        "type": {
+            "name": "SQUID",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Squid",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/349"
+        }
+    },
+    {
+        "type": {
+            "name": "EYEBALLFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Eyeballfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/350"
+        }
+    },
+    {
+        "type": {
+            "name": "HEARTFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Heartfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/354"
+        }
+    },
+    {
+        "type": {
+            "name": "LUVFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Luvfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/355"
+        }
+    },
+    {
+        "type": {
+            "name": "PATRIDGE FISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Patridge Fish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/384"
+        }
+    },
+    {
+        "type": {
+            "name": "TURTLE DOVE FISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Turtle Dove Fish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/385"
+        }
+    },
+    {
+        "type": {
+            "name": "FRENCH HEN SEAHORSE",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "French Hen Seahorse",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/386"
+        }
+    },
+    {
+        "type": {
+            "name": "CALLING BIRD FISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Calling Bird Fish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/387"
+        }
+    },
+    {
+        "type": {
+            "name": "FIVE RING FISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Five Ring Fish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/388"
+        }
+    },
+    {
+        "type": {
+            "name": "GOOSE FISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Goose Fish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/389"
+        }
+    },
+    {
+        "type": {
+            "name": "SWAN EEL",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Swan Eel",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/390"
+        }
+    },
+    {
+        "type": {
+            "name": "MILK JELLYFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Milk Jellyfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/391"
+        }
+    },
+    {
+        "type": {
+            "name": "DANCING LADY FISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Dancing Lady Fish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/392"
+        }
+    },
+    {
+        "type": {
+            "name": "LEAPING LORD JELLYFISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Leaping Lord Jellyfish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/393"
+        }
+    },
+    {
+        "type": {
+            "name": "PIPER FISH",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Piper Fish",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/394"
+        }
+    },
+    {
+        "type": {
+            "name": "DRUM CRAB",
+            "section": "FISH"
+        },
+        "item": {
+            "section": "Fish",
+            "name": "Drum Crab",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "02/Jun/2023",
+            "url": "fish/395"
         }
     }
 ]
