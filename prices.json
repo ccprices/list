@@ -11075,11 +11075,11 @@
             "section": "Thanksgiving",
             "name": "Turkey Bolo",
             "price": {
-                "min": 27500,
-                "max": 32500
+                "min": 20000,
+                "max": 25000
             },
             "state": "Stable",
-            "last_updated": "26/Feb/2023",
+            "last_updated": "05/Jun/2023",
             "url": "wearables/IMG_607"
         }
     },
@@ -17337,6 +17337,618 @@
             "state": "Stable",
             "last_updated": "03/Jun/2023",
             "url": "virus/247"
+        }
+    },
+    {
+        "type": {
+            "name": "CHOCOLATE CARAMEL",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Chocolate Caramel",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/210"
+        }
+    },
+    {
+        "type": {
+            "name": "HARD PEPPERMINT",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Hard Peppermint",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/211"
+        }
+    },
+    {
+        "type": {
+            "name": "ORANGE DELIGHT",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Orange Delight",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/212"
+        }
+    },
+    {
+        "type": {
+            "name": "TURKISH TREAT",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Turkish Treat",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/213"
+        }
+    },
+    {
+        "type": {
+            "name": "PEANUT CRUNCH",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Peanut Crunch",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/214"
+        }
+    },
+    {
+        "type": {
+            "name": "BUBBLE BUBBLE",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Bubble Bubble",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/215"
+        }
+    },
+    {
+        "type": {
+            "name": "JAWSIFIER",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Jawsifier",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/216"
+        }
+    },
+    {
+        "type": {
+            "name": "LICORICO",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Licorico",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/217"
+        }
+    },
+    {
+        "type": {
+            "name": "MALT MUNCH",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Malt Munch",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/218"
+        }
+    },
+    {
+        "type": {
+            "name": "COCONUT CRUNCHER",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Coconut Cruncher",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/219"
+        }
+    },
+    {
+        "type": {
+            "name": "MELTED CHOCOLATE",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Melted Chocolate",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/220"
+        }
+    },
+    {
+        "type": {
+            "name": "PEPPERMINT DUST",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Peppermint Dust",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/221"
+        }
+    },
+    {
+        "type": {
+            "name": "CANDY SYRUP",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Candy Syrup",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/222"
+        }
+    },
+    {
+        "type": {
+            "name": "COCONUT SHAVINGS",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Coconut Shavings",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/223"
+        }
+    },
+    {
+        "type": {
+            "name": "GOOEY DELIGHT",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Gooey Delight",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/224"
+        }
+    },
+    {
+        "type": {
+            "name": "MINT CHOCOLATE",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Mint Chocolate",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/225"
+        }
+    },
+    {
+        "type": {
+            "name": "COCO CANDY",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Coco Candy",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/226"
+        }
+    },
+    {
+        "type": {
+            "name": "ULTIMATE CANDY",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Ultimate Candy",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/227"
+        }
+    },
+    {
+        "type": {
+            "name": "BAT FREE CANDY",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Bat Free Candy",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/366"
+        }
+    },
+    {
+        "type": {
+            "name": "CHOCO COFFIN",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Choco Coffin",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/367"
+        }
+    },
+    {
+        "type": {
+            "name": "CHOCO NUGGET",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Choco Nugget",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/368"
+        }
+    },
+    {
+        "type": {
+            "name": "EYEBREAKER",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Eyebreaker",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/369"
+        }
+    },
+    {
+        "type": {
+            "name": "GHOST CHALK",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Ghost Chalk",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/370"
+        }
+    },
+    {
+        "type": {
+            "name": "GHOSTLY WAFER",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Ghostly Wafer",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/371"
+        }
+    },
+    {
+        "type": {
+            "name": "GLOW-IN-A-POP",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Glow-in-a-pop",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/372"
+        }
+    },
+    {
+        "type": {
+            "name": "JELLYMEAN",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Jellymean",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/373"
+        }
+    },
+    {
+        "type": {
+            "name": "LOLLIPUMPKIN",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Lollipumpkin",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/374"
+        }
+    },
+    {
+        "type": {
+            "name": "MINTY HOLLOW",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Minty Hollow",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/375"
+        }
+    },
+    {
+        "type": {
+            "name": "PANDAN MUNCH-KIN",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Pandan Munch-kin",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/376"
+        }
+    },
+    {
+        "type": {
+            "name": "RIPCAKE",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Ripcake",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/377"
+        }
+    },
+    {
+        "type": {
+            "name": "SILKY COTTON CANDY",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Silky Cotton Candy",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/378"
+        }
+    },
+    {
+        "type": {
+            "name": "SLIMEYWORM",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Slimeyworm",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/379"
+        }
+    },
+    {
+        "type": {
+            "name": "TONGUEANDSWEET",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "TongueAndSweet",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/380"
+        }
+    },
+    {
+        "type": {
+            "name": "TOOTH CANDY",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Tooth Candy",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/381"
+        }
+    },
+    {
+        "type": {
+            "name": "VANILLA MILKBOO",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Vanilla Milkboo",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/382"
+        }
+    },
+    {
+        "type": {
+            "name": "ULTIMATE CANDY 2",
+            "section": "CANDY"
+        },
+        "item": {
+            "section": "Candy",
+            "name": "Ultimate Candy 2",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "03/Jun/2023",
+            "url": "candy/383"
         }
     }
 ]
