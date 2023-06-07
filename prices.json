@@ -6760,8 +6760,8 @@
                 "min": 15000,
                 "max": 20000
             },
-            "state": "Decreasing",
-            "last_updated": "08/May/2023",
+            "state": "Stable",
+            "last_updated": "07/Jun/2023",
             "url": "wearables/IMG_874"
         }
     },
