@@ -6777,8 +6777,8 @@
                 "min": 20000,
                 "max": 25000
             },
-            "state": "Decreasing",
-            "last_updated": "07/Apr/2023",
+            "state": "Stable",
+            "last_updated": "07/Jun/2023",
             "url": "wearables/error"
         }
     },
