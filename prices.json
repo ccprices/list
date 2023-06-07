@@ -8440,11 +8440,11 @@
             "section": "Summer",
             "name": "Black Bikini Top",
             "price": {
-                "min": 30000,
-                "max": 35000
+                "min": 25000,
+                "max": 30000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "07/Jun/2023",
             "url": "wearables/IMG_306"
         }
     },
