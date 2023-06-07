@@ -8443,7 +8443,7 @@
                 "min": 25000,
                 "max": 30000
             },
-            "state": "Stable",
+            "state": "Decreasing",
             "last_updated": "07/Jun/2023",
             "url": "wearables/IMG_306"
         }
