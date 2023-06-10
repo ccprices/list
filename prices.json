@@ -6536,11 +6536,11 @@
             "section": "Easter",
             "name": "Rainbow Headband",
             "price": {
-                "min": 3000,
-                "max": 4000
+                "min": 2000,
+                "max": 3000
             },
             "state": "Stable",
-            "last_updated": "04/Apr/2023",
+            "last_updated": "10/Jun/2023",
             "url": "wearables/IMG_862"
         }
     },
