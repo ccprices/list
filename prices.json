@@ -586,11 +586,11 @@
             "section": "Hat Pack",
             "name": "Roman Helmet",
             "price": {
-                "min": 3000,
-                "max": 3500
+                "min": 2000,
+                "max": 3000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "10/Jun/2023",
             "url": "wearables/IMG_158"
         }
     },
