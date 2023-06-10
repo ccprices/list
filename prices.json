@@ -5992,11 +5992,11 @@
             "section": "Easter",
             "name": "Yellow Floral Crown",
             "price": {
-                "min": 500,
-                "max": 800
+                "min": 350,
+                "max": 550
             },
             "state": "Stable",
-            "last_updated": "07/Apr/2023",
+            "last_updated": "10/Jun/2023",
             "url": "wearables/IMG_207"
         }
     },
