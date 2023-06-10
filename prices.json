@@ -9817,11 +9817,11 @@
             "section": "Halloween",
             "name": "Alien Mask",
             "price": {
-                "min": 12500,
-                "max": 15000
+                "min": 8000,
+                "max": 10000
             },
             "state": "Stable",
-            "last_updated": "16/Feb/2023",
+            "last_updated": "10/Jun/2023",
             "url": "wearables/IMG_388"
         }
     },
