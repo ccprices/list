@@ -11789,8 +11789,8 @@
             "section": "Thanksgiving",
             "name": "Rainbow Turkey Tail",
             "price": {
-                "min": 200000,
-                "max": 250000
+                "min": 175000,
+                "max": 225000
             },
             "state": "Decreasing",
             "last_updated": "10/Jun/2023",
