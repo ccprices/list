@@ -11024,11 +11024,11 @@
             "section": "Thanksgiving",
             "name": "Beard",
             "price": {
-                "min": 450000,
+                "min": 400000,
                 "max": 500000
             },
             "state": "Stable",
-            "last_updated": "25/Feb/2023",
+            "last_updated": "11/Jun/2023",
             "url": "wearables/IMG_515"
         }
     },
