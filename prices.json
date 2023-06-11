@@ -246,11 +246,11 @@
             "section": "Hat Pack",
             "name": "Valkyrie Helm",
             "price": {
-                "min": 400,
-                "max": 700
+                "min": 900,
+                "max": 1500
             },
             "state": "Stable",
-            "last_updated": "21/May/2023",
+            "last_updated": "11/Jun/2023",
             "url": "wearables/IMG_010"
         }
     },
