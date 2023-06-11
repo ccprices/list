@@ -6570,11 +6570,11 @@
             "section": "Easter",
             "name": "Chick Head",
             "price": {
-                "min": 1500,
-                "max": 2000
+                "min": 2000,
+                "max": 3000
             },
             "state": "Stable",
-            "last_updated": "25/Apr/2023",
+            "last_updated": "11/Jun/2023",
             "url": "wearables/IMG_857"
         }
     },
