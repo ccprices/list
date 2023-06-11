@@ -7166,10 +7166,10 @@
             "name": "Panda Hat",
             "price": {
                 "min": 12500,
-                "max": 17500
+                "max": 15000
             },
             "state": "Stable",
-            "last_updated": "25/May/2023",
+            "last_updated": "11/Jun/2023",
             "url": "wearables/IMG_418"
         }
     },
