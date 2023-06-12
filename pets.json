@@ -1,0 +1,1010 @@
+[
+    {
+        "type": {
+            "name": "RAM KENNEL",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Pet",
+            "name": "Level 0 Ram Kennel",
+            "price": {
+                "min": 3500000,
+                "max": 4000000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00496_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "RAM KENNEL",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Pet",
+            "name": "Level 49 Ram Kennel",
+            "price": {
+                "min": 3000000,
+                "max": 3500000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00496_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "DRAGON LAIR",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Pet",
+            "name": "Level 0 Dragon Lair",
+            "price": {
+                "min": 17500,
+                "max": 22500
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00497_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "DRAGON LAIR",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Pet",
+            "name": "Level 49 Dragon Lair",
+            "price": {
+                "min": 30000,
+                "max": 35000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00497_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "BUNNY KENNEL",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Pet",
+            "name": "Level 0 Bunny Kennel",
+            "price": {
+                "min": 15000,
+                "max": 17500
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00495_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "BUNNY KENNEL",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Pet",
+            "name": "Level 49 Bunny Kennel",
+            "price": {
+                "min": 22500,
+                "max": 27500
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00495_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "DOG KENNEL",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Pet",
+            "name": "Level 0 Dog Kennel",
+            "price": {
+                "min": 2500,
+                "max": 3500
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00479_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "DOG KENNEL",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Pet",
+            "name": "Level 49 Dog Kennel",
+            "price": {
+                "min": 8000,
+                "max": 10000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00479_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "KITTY KENNEL",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Pet",
+            "name": "Level 0 Kitty Kennel",
+            "price": {
+                "min": 2500,
+                "max": 3500
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00494_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "KITTY KENNEL",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Pet",
+            "name": "Level 49 Kitty Kennel",
+            "price": {
+                "min": 8000,
+                "max": 10000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00494_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "WUVVA PIG KENNEL",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Valentine's Day",
+            "name": "Level 0 Wuvva Pig Kennel",
+            "price": {
+                "min": 400000,
+                "max": 450000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00647_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "WUVVA PIG KENNEL",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Valentine's Day",
+            "name": "Level 49 Wuvva Pig Kennel",
+            "price": {
+                "min": 400000,
+                "max": 450000
+            },
+            "state": "Stable",
+            "last_updated": "30/Dec/2022",
+            "url": "pets/00647_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "CHICK COOP",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Level 0 Chick Coop",
+            "price": {
+                "min": 175000,
+                "max": 195000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00665_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "CHICK COOP",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Easter",
+            "name": "Level 49 Chick Coop",
+            "price": {
+                "min": 165000,
+                "max": 185000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00665_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "BLACK CAT KENNEL",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Halloween",
+            "name": "Level 0 Black Cat Kennel",
+            "price": {
+                "min": 550000,
+                "max": 625000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00525_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "BLACK CAT KENNEL",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Halloween",
+            "name": "Level 49 Black Cat Kennel",
+            "price": {
+                "min": 550000,
+                "max": 600000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00525_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "PUMPKIN KENNEL",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Halloween",
+            "name": "Level 0 Pumpkin Kennel",
+            "price": {
+                "min": 500000,
+                "max": 550000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00531_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "PUMPKIN KENNEL",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Halloween",
+            "name": "Level 49 Pumpkin Kennel",
+            "price": {
+                "min": 500000,
+                "max": 550000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00531_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "SPIDER DEN",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Halloween",
+            "name": "Level 0 Spider Den",
+            "price": {
+                "min": 90000,
+                "max": 100000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00897_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "SPIDER DEN",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Halloween",
+            "name": "Level 49 Spider Den",
+            "price": {
+                "min": 95000,
+                "max": 105000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00897_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MUTANT HOPPER",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Halloween",
+            "name": "Level 0 Mutant Hopper",
+            "price": {
+                "min": 40000,
+                "max": 50000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01217_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MUTANT HOPPER",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Halloween",
+            "name": "Level 49 Mutant Hopper",
+            "price": {
+                "min": 45000,
+                "max": 55000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01217_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MUTANT MEEMEW",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Halloween",
+            "name": "Level 0 Mutant MeeMew",
+            "price": {
+                "min": 2750,
+                "max": 3500
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01216_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MUTANT MEEMEW",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Halloween",
+            "name": "Level 49 Mutant MeeMew",
+            "price": {
+                "min": 10000,
+                "max": 12500
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01216_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MUTANT DOOG",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Halloween",
+            "name": "Level 0 Mutant Doog",
+            "price": {
+                "min": 2500,
+                "max": 3000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01215_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MUTANT DOOG",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Halloween",
+            "name": "Level 49 Mutant Doog",
+            "price": {
+                "min": 10000,
+                "max": 12500
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01215_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MUTANT RAM KENNEL",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Halloween",
+            "name": "Level 0 Mutant Ram Kennel",
+            "price": {
+                "min": 80000,
+                "max": 90000
+            },
+            "state": "Stable",
+            "last_updated": "27/Mar/2023",
+            "url": "pets/mutant_ram_kennel"
+        }
+    },
+    {
+        "type": {
+            "name": "MUTANT RAM KENNEL",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Halloween",
+            "name": "Level 49 Mutant Ram Kennel",
+            "price": {
+                "min": 100000,
+                "max": 115000
+            },
+            "state": "Stable",
+            "last_updated": "27/Mar/2023",
+            "url": "pets/mutant_ram_kennel"
+        }
+    },
+    {
+        "type": {
+            "name": "MUTANT WUVVA PIG KENNEL",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Halloween",
+            "name": "Level 0 Mutant Wuvva Pig Kennel",
+            "price": {
+                "min": 1000,
+                "max": 1500
+            },
+            "state": "Stable",
+            "last_updated": "15/Mar/2023",
+            "url": "pets/mutant_wuvva_pig_kennel"
+        }
+    },
+    {
+        "type": {
+            "name": "MUTANT WUVVA PIG KENNEL",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Halloween",
+            "name": "Level 49 Mutant Wuvva Pig Kennel",
+            "price": {
+                "min": 6000,
+                "max": 8000
+            },
+            "state": "Stable",
+            "last_updated": "14/03/2023",
+            "url": "pets/mutant_wuvva_pig_kennel"
+        }
+    },
+    {
+        "type": {
+            "name": "OSTRICH PIT",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Pet Pack",
+            "name": "Level 0 Ostrich Pit",
+            "price": {
+                "min": 170000,
+                "max": 190000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01103_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "OSTRICH PIT",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Pet Pack",
+            "name": "Level 49 Ostrich Pit",
+            "price": {
+                "min": 165000,
+                "max": 185000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01103_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "KANGAROO KENNEL",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Pet Pack",
+            "name": "Level 0 Kangaroo Kennel",
+            "price": {
+                "min": 170000,
+                "max": 190000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01102_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "KANGAROO KENNEL",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Pet Pack",
+            "name": "Level 49 Kangaroo Kennel",
+            "price": {
+                "min": 165000,
+                "max": 185000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01102_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "TURKEY KENNEL",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Thanksgiving",
+            "name": "Level 0 Turkey Kennel",
+            "price": {
+                "min": 20000,
+                "max": 25000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00755_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "TURKEY KENNEL",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Thanksgiving",
+            "name": "Level 49 Turkey Kennel",
+            "price": {
+                "min": 30000,
+                "max": 35000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00755_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "ELF HUT",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Christmas",
+            "name": "Level 0 Elf Hut",
+            "price": {
+                "min": 80000,
+                "max": 90000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00576_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "ELF HUT",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Christmas",
+            "name": "Level 49 Elf Hut",
+            "price": {
+                "min": 70000,
+                "max": 80000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00576_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "REINDEER KENNEL",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Christmas",
+            "name": "Level 0 Reindeer Kennel",
+            "price": {
+                "min": 20000,
+                "max": 25000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00571_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "REINDEER KENNEL",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Christmas",
+            "name": "Level 49 Reindeer Kennel",
+            "price": {
+                "min": 25000,
+                "max": 30000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00571_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "SNOWMAN KENNEL",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Christmas",
+            "name": "Level 0 Snowman Kennel",
+            "price": {
+                "min": 40000,
+                "max": 50000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00573_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "SNOWMAN KENNEL",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Christmas",
+            "name": "Level 49 Snowman Kennel",
+            "price": {
+                "min": 45000,
+                "max": 55000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00573_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "PENGUIN PAD",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Christmas",
+            "name": "Level 0 Penguin Pad",
+            "price": {
+                "min": 17500,
+                "max": 22500
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00987_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "PENGUIN PAD",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Christmas",
+            "name": "Level 49 Penguin Pad",
+            "price": {
+                "min": 30000,
+                "max": 35000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/00987_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "HUSKY KENNEL",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Christmas",
+            "name": "Level 0 Husky Kennel",
+            "price": {
+                "min": 12500,
+                "max": 15000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01682_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "HUSKY KENNEL",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Christmas",
+            "name": "Level 49 Husky Kennel",
+            "price": {
+                "min": 20000,
+                "max": 25000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01682_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MINI GROUCH KENNEL",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Christmas",
+            "name": "Level 0 Mini Grouch Kennel",
+            "price": {
+                "min": 5000,
+                "max": 7500
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01680_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MINI GROUCH KENNEL",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Christmas",
+            "name": "Level 49 Mini Grouch Kennel",
+            "price": {
+                "min": 12500,
+                "max": 15000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01680_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MINI KRAMPUS KENNEL",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Christmas",
+            "name": "Level 0 Mini Krampus Kennel",
+            "price": {
+                "min": 3000,
+                "max": 4000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01681_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MINI KRAMPUS KENNEL",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Christmas",
+            "name": "Level 49 Mini Krampus Kennel",
+            "price": {
+                "min": 10000,
+                "max": 12500
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01681_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MODEL N STATION",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Sci-fi Pack",
+            "name": "Level 0 Model N Station",
+            "price": {
+                "min": 35000,
+                "max": 40000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01165_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MODEL N STATION",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Sci-fi Pack",
+            "name": "Level 49 Model N Station",
+            "price": {
+                "min": 45000,
+                "max": 50000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01165_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MODEL F STATION",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Sci-fi Pack",
+            "name": "Level 0 Model F Station",
+            "price": {
+                "min": 15000,
+                "max": 20000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01166_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MODEL F STATION",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Sci-fi Pack",
+            "name": "Level 49 Model F Station",
+            "price": {
+                "min": 25000,
+                "max": 30000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01166_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MODEL C STATION",
+            "level": 0,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Sci-fi Pack",
+            "name": "Level 0 Model C Station",
+            "price": {
+                "min": 7000,
+                "max": 8000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01164_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MODEL C STATION",
+            "level": 49,
+            "section": "PETS"
+        },
+        "item": {
+            "section": "Sci-fi Pack",
+            "name": "Level 49 Model C Station",
+            "price": {
+                "min": 12000,
+                "max": 15000
+            },
+            "state": "Stable",
+            "last_updated": "17/Dec/2022",
+            "url": "pets/01164_cropped"
+        }
+    }
+]
