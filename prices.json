@@ -4904,11 +4904,11 @@
             "section": "April Fools' Day",
             "name": "Jester Pack",
             "price": {
-                "min": 16000,
-                "max": 18000
+                "min": 14000,
+                "max": 16000
             },
             "state": "Stable",
-            "last_updated": "25/Feb/2023",
+            "last_updated": "12/Jun/2023",
             "url": "wearables/IMG_427"
         }
     },
