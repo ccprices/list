@@ -693,11 +693,11 @@
             "section": "Christmas",
             "name": "Level 0 Reindeer Kennel",
             "price": {
-                "min": 20000,
-                "max": 25000
+                "min": 15000,
+                "max": 20000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "12/Jun/2023",
             "url": "pets/00571_cropped"
         }
     },
