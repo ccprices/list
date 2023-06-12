@@ -11772,11 +11772,11 @@
             "section": "Thanksgiving",
             "name": "Amethyst Turkey Tail",
             "price": {
-                "min": 8500,
-                "max": 13500
+                "min": 7000,
+                "max": 9000
             },
             "state": "Stable",
-            "last_updated": "08/May/2023",
+            "last_updated": "12/Jun/2023",
             "url": "wearables/IMG_819"
         }
     },
