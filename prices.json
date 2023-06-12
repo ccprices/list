@@ -2541,11 +2541,11 @@
             "section": "Critter Suit Pack",
             "name": "Ram Horns",
             "price": {
-                "min": 250,
-                "max": 350
+                "min": 600,
+                "max": 1000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "12/Jun/2023",
             "url": "wearables/IMG_071"
         }
     },
@@ -17949,6 +17949,550 @@
             "state": "Stable",
             "last_updated": "03/Jun/2023",
             "url": "candy/383"
+        }
+    },
+    {
+        "type": {
+            "name": "RUSTY WIRES",
+            "section": "BZ"
+        },
+        "item": {
+            "section": "Bz",
+            "name": "Rusty Wires",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "bz/322"
+        }
+    },
+    {
+        "type": {
+            "name": "OLD BATTERY",
+            "section": "BZ"
+        },
+        "item": {
+            "section": "Bz",
+            "name": "Old Battery",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "bz/323"
+        }
+    },
+    {
+        "type": {
+            "name": "RUSTY PARTS",
+            "section": "BZ"
+        },
+        "item": {
+            "section": "Bz",
+            "name": "Rusty Parts",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "bz/324"
+        }
+    },
+    {
+        "type": {
+            "name": "ALIEN BACTERIA",
+            "section": "BZ"
+        },
+        "item": {
+            "section": "Bz",
+            "name": "Alien Bacteria",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "bz/325"
+        }
+    },
+    {
+        "type": {
+            "name": "ROBOZILLA VISOR",
+            "section": "BZ"
+        },
+        "item": {
+            "section": "Bz",
+            "name": "Robozilla Visor",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "bz/326"
+        }
+    },
+    {
+        "type": {
+            "name": "ROBOZILLA EARS",
+            "section": "BZ"
+        },
+        "item": {
+            "section": "Bz",
+            "name": "Robozilla Ears",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "bz/327"
+        }
+    },
+    {
+        "type": {
+            "name": "ROBOZILLA BUN",
+            "section": "BZ"
+        },
+        "item": {
+            "section": "Bz",
+            "name": "Robozilla Bun",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "bz/328"
+        }
+    },
+    {
+        "type": {
+            "name": "ROBOZILLA METAL PLATE",
+            "section": "BZ"
+        },
+        "item": {
+            "section": "Bz",
+            "name": "Robozilla Metal Plate",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "bz/329"
+        }
+    },
+    {
+        "type": {
+            "name": "SEAWEED",
+            "section": "JUNK"
+        },
+        "item": {
+            "section": "Junk",
+            "name": "Seaweed",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "fish/273"
+        }
+    },
+    {
+        "type": {
+            "name": "SEA SLUG",
+            "section": "JUNK"
+        },
+        "item": {
+            "section": "Junk",
+            "name": "Sea Slug",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "fish/274"
+        }
+    },
+    {
+        "type": {
+            "name": "PLASTIC WRAP",
+            "section": "JUNK"
+        },
+        "item": {
+            "section": "Junk",
+            "name": "Plastic Wrap",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "fish/275"
+        }
+    },
+    {
+        "type": {
+            "name": "OLD BOOT",
+            "section": "JUNK"
+        },
+        "item": {
+            "section": "Junk",
+            "name": "Old Boot",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "fish/276"
+        }
+    },
+    {
+        "type": {
+            "name": "OLD CAN",
+            "section": "JUNK"
+        },
+        "item": {
+            "section": "Junk",
+            "name": "Old Can",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "fish/271"
+        }
+    },
+    {
+        "type": {
+            "name": "MESSAGE INNA BOTTLE",
+            "section": "JUNK"
+        },
+        "item": {
+            "section": "Junk",
+            "name": "Message Inna Bottle",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "fish/272"
+        }
+    },
+    {
+        "type": {
+            "name": "RAW DRUMSTICK",
+            "section": "FALL EVENT"
+        },
+        "item": {
+            "section": "Fall Event",
+            "name": "Raw Drumstick",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "thanksgiving/258"
+        }
+    },
+    {
+        "type": {
+            "name": "RAW WING",
+            "section": "FALL EVENT"
+        },
+        "item": {
+            "section": "Fall Event",
+            "name": "Raw Wing",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "thanksgiving/259"
+        }
+    },
+    {
+        "type": {
+            "name": "PUMPKIN SKIN",
+            "section": "FALL EVENT"
+        },
+        "item": {
+            "section": "Fall Event",
+            "name": "Pumpkin Skin",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "thanksgiving/260"
+        }
+    },
+    {
+        "type": {
+            "name": "PUMPKIN SLICE",
+            "section": "FALL EVENT"
+        },
+        "item": {
+            "section": "Fall Event",
+            "name": "Pumpkin Slice",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "thanksgiving/261"
+        }
+    },
+    {
+        "type": {
+            "name": "AMULET OF GOODNESS",
+            "section": "HALLOWEEN EVENT"
+        },
+        "item": {
+            "section": "Halloween Event",
+            "name": "Amulet Of Goodness",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "halloween/253"
+        }
+    },
+    {
+        "type": {
+            "name": "PENDANT OF BADNESS",
+            "section": "HALLOWEEN EVENT"
+        },
+        "item": {
+            "section": "Halloween Event",
+            "name": "Pendant Of Badness",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "halloween/254"
+        }
+    },
+    {
+        "type": {
+            "name": "KEWBERNO'S CELL",
+            "section": "HALLOWEEN EVENT"
+        },
+        "item": {
+            "section": "Halloween Event",
+            "name": "Kewberno's Cell",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "halloween/01749_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "KEWBERNO'S TUBE",
+            "section": "HALLOWEEN EVENT"
+        },
+        "item": {
+            "section": "Halloween Event",
+            "name": "Kewberno's Tube",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "halloween/01750_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "KEWBERNO'S CPU",
+            "section": "HALLOWEEN EVENT"
+        },
+        "item": {
+            "section": "Halloween Event",
+            "name": "Kewberno's CPU",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "halloween/01751_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "KEWBERNO'S DNA",
+            "section": "HALLOWEEN EVENT"
+        },
+        "item": {
+            "section": "Halloween Event",
+            "name": "Kewberno's DNA",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "halloween/01752_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "KEWBERNO'S MONSTER CREATOR",
+            "section": "HALLOWEEN EVENT"
+        },
+        "item": {
+            "section": "Halloween Event",
+            "name": "Kewberno's Monster Creator",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "halloween/01753_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MONSTER MASH 2",
+            "section": "HALLOWEEN EVENT"
+        },
+        "item": {
+            "section": "Halloween Event",
+            "name": "Monster Mash 2",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "halloween/01754_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "KEWBERNO'S BATTERY",
+            "section": "HALLOWEEN EVENT"
+        },
+        "item": {
+            "section": "Halloween Event",
+            "name": "Kewberno's Battery",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "halloween/01210_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "KEWBERNO'S MASH RECEPTOR",
+            "section": "HALLOWEEN EVENT"
+        },
+        "item": {
+            "section": "Halloween Event",
+            "name": "Kewberno's Mash Receptor",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "halloween/01211_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "KEWBERNO'S COUPLER",
+            "section": "HALLOWEEN EVENT"
+        },
+        "item": {
+            "section": "Halloween Event",
+            "name": "Kewberno's Coupler",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "halloween/01212_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "KEWBERNO'S KOMPUTER",
+            "section": "HALLOWEEN EVENT"
+        },
+        "item": {
+            "section": "Halloween Event",
+            "name": "Kewberno's Komputer",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "halloween/01213_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "KEWBERNO'S MEMORY",
+            "section": "HALLOWEEN EVENT"
+        },
+        "item": {
+            "section": "Halloween Event",
+            "name": "Kewberno's Memory",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "halloween/01214_cropped"
+        }
+    },
+    {
+        "type": {
+            "name": "MONSTER MASH",
+            "section": "HALLOWEEN EVENT"
+        },
+        "item": {
+            "section": "Halloween Event",
+            "name": "Monster Mash",
+            "price": {
+                "min": 0,
+                "max": 0
+            },
+            "state": "Stable",
+            "last_updated": "14/Apr/2023",
+            "url": "halloween/01209_cropped"
         }
     }
 ]
