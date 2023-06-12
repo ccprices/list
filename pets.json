@@ -711,11 +711,11 @@
             "section": "Christmas",
             "name": "Level 49 Reindeer Kennel",
             "price": {
-                "min": 25000,
-                "max": 30000
+                "min": 20000,
+                "max": 25000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "12/Jun/2023",
             "url": "pets/00571_cropped"
         }
     },
