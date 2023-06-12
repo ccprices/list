@@ -13353,11 +13353,11 @@
             "section": "New Year's Day",
             "name": "Tall Party Hat",
             "price": {
-                "min": 3000,
-                "max": 4000
+                "min": 2500,
+                "max": 3500
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "12/Jun/2023",
             "url": "wearables/IMG_334"
         }
     },
