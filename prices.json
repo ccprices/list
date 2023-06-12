@@ -14033,11 +14033,11 @@
             "section": "Christmas",
             "name": "Christmas Key",
             "price": {
-                "min": 10000,
-                "max": 12500
+                "min": 8000,
+                "max": 12000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "12/Jun/2023",
             "url": "cars/351"
         }
     },
