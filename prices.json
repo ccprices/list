@@ -9409,11 +9409,11 @@
             "section": "Halloween",
             "name": "Spiderbrella",
             "price": {
-                "min": 1750,
-                "max": 2500
+                "min": 1500,
+                "max": 2000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "15/Jun/2023",
             "url": "wearables/IMG_318"
         }
     },
