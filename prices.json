@@ -13166,11 +13166,11 @@
             "section": "Christmas",
             "name": "Penguin Pants",
             "price": {
-                "min": 3000,
-                "max": 4000
+                "min": 2000,
+                "max": 2500
             },
             "state": "Stable",
-            "last_updated": "5/Jan/2023",
+            "last_updated": "15/Jun/2023",
             "url": "wearables/IMG_834"
         }
     },
