@@ -3221,11 +3221,11 @@
             "section": "Clothes Pack",
             "name": "Camo Shirt",
             "price": {
-                "min": 100,
-                "max": 150
+                "min": 75,
+                "max": 125
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "21/Jun/2023",
             "url": "wearables/IMG_258"
         }
     },
