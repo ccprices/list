@@ -9715,11 +9715,11 @@
             "section": "Halloween",
             "name": "Werewolf Head",
             "price": {
-                "min": 65000,
-                "max": 75000
+                "min": 55000,
+                "max": 65000
             },
             "state": "Stable",
-            "last_updated": "08/May/2023",
+            "last_updated": "26/Jun/2023",
             "url": "wearables/IMG_320"
         }
     },
