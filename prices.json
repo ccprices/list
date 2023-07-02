@@ -7454,11 +7454,11 @@
             "section": "Valentine's Day",
             "name": "Teddy Bear Head",
             "price": {
-                "min": 125000,
-                "max": 150000
+                "min": 180000,
+                "max": 200000
             },
             "state": "Stable",
-            "last_updated": "07/Jun/2023",
+            "last_updated": "02/Jul/2023",
             "url": "wearables/IMG_545"
         }
     },
