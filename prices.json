@@ -9987,11 +9987,11 @@
             "section": "Halloween",
             "name": "Robot Head",
             "price": {
-                "min": 200,
-                "max": 400
+                "min": 2000,
+                "max": 3000
             },
             "state": "Stable",
-            "last_updated": "03/May/2023",
+            "last_updated": "04/Jul/2023",
             "url": "wearables/IMG_105"
         }
     },
