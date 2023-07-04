@@ -10004,11 +10004,11 @@
             "section": "Halloween",
             "name": "Skull Head",
             "price": {
-                "min": 250,
-                "max": 500
+                "min": 1500,
+                "max": 3000
             },
             "state": "Stable",
-            "last_updated": "27/Mar/2023",
+            "last_updated": "04/Jul/2023",
             "url": "wearables/IMG_107"
         }
     },
