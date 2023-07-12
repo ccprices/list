@@ -11347,11 +11347,11 @@
             "section": "Thanksgiving",
             "name": "Pilgrim Bonnet",
             "price": {
-                "min": 2000,
-                "max": 3000
+                "min": 4000,
+                "max": 7000
             },
             "state": "Increasing",
-            "last_updated": "02/Jul/2023",
+            "last_updated": "12/Jul/2023",
             "url": "wearables/IMG_326"
         }
     },
