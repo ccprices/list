@@ -11041,11 +11041,11 @@
             "section": "Thanksgiving",
             "name": "Plaid Hunting Cap",
             "price": {
-                "min": 160000,
-                "max": 180000
+                "min": 150000,
+                "max": 170000
             },
             "state": "Decreasing",
-            "last_updated": "11/Jun/2023",
+            "last_updated": "12/Jul/2023",
             "url": "wearables/IMG_279"
         }
     },
