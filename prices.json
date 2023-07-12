@@ -5142,8 +5142,8 @@
             "section": "Easter",
             "name": "Rainbow Umbrella",
             "price": {
-                "min": 1000000,
-                "max": 1100000
+                "min": 1500000,
+                "max": 2000000
             },
             "state": "Increasing",
             "last_updated": "12/Jul/2023",
