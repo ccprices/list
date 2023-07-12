@@ -5397,11 +5397,11 @@
             "section": "Easter",
             "name": "Bunny Tophat",
             "price": {
-                "min": 25000,
-                "max": 30000
+                "min": 30000,
+                "max": 40000
             },
             "state": "Stable",
-            "last_updated": "07/Apr/2023",
+            "last_updated": "12/Jul/2023",
             "url": "wearables/IMG_155"
         }
     },
