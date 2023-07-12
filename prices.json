@@ -6757,11 +6757,11 @@
             "section": "Easter",
             "name": "Holdable Easter Basket",
             "price": {
-                "min": 15000,
-                "max": 20000
+                "min": 30000,
+                "max": 40000
             },
             "state": "Stable",
-            "last_updated": "07/Jun/2023",
+            "last_updated": "12/Jul/2023",
             "url": "wearables/IMG_874"
         }
     },
