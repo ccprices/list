@@ -10497,11 +10497,11 @@
             "section": "Halloween",
             "name": "Skeletal Wings",
             "price": {
-                "min": 30000,
+                "min": 27000,
                 "max": 35000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "12/Jul/2023",
             "url": "wearables/IMG_507"
         }
     },
