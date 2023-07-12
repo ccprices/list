@@ -5380,11 +5380,11 @@
             "section": "Easter",
             "name": "Epic Greek Orthodox Easter Crown",
             "price": {
-                "min": 10000,
-                "max": 15000
+                "min": 8000,
+                "max": 13000
             },
             "state": "Stable",
-            "last_updated": "19/Feb/2023",
+            "last_updated": "12/Jul/2023",
             "url": "wearables/IMG_162"
         }
     },
