@@ -9375,11 +9375,11 @@
             "section": "Halloween",
             "name": "Scythe",
             "price": {
-                "min": 600000,
-                "max": 700000
+                "min": 550000,
+                "max": 650000
             },
             "state": "Stable",
-            "last_updated": "01/Jun/2023",
+            "last_updated": "12/Jul/2023",
             "url": "wearables/IMG_383"
         }
     },
