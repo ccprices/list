@@ -6655,8 +6655,8 @@
             "section": "Easter",
             "name": "Rainbow Halo",
             "price": {
-                "min": 250,
-                "max": 350
+                "min": 250000,
+                "max": 350000
             },
             "state": "Decreasing",
             "last_updated": "12/Jul/2023",
