@@ -10344,11 +10344,11 @@
             "section": "Halloween",
             "name": "Dark Traveller Head",
             "price": {
-                "min": 1000,
-                "max": 1500
+                "min": 1500,
+                "max": 3000
             },
             "state": "Stable",
-            "last_updated": "20/Mar/2023",
+            "last_updated": "12/Jul/2023",
             "url": "wearables/IMG_497"
         }
     },
