@@ -5584,11 +5584,11 @@
             "section": "Easter",
             "name": "Mushroom Hat",
             "price": {
-                "min": 22500,
-                "max": 27500
+                "min": 20000,
+                "max": 27000
             },
             "state": "Stable",
-            "last_updated": "23/May/2023",
+            "last_updated": "12/Jul/2023",
             "url": "wearables/IMG_568"
         }
     },
