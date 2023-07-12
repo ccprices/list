@@ -6145,11 +6145,11 @@
             "section": "Easter",
             "name": "Red Easter BackPack",
             "price": {
-                "min": 500,
-                "max": 1000
+                "min": 400,
+                "max": 800
             },
             "state": "Stable",
-            "last_updated": "07/Apr/2023",
+            "last_updated": "12/Jul/2023",
             "url": "wearables/IMG_570"
         }
     },
