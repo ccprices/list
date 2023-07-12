@@ -4819,11 +4819,11 @@
             "section": "April Fools' Day",
             "name": "Fool's Cap",
             "price": {
-                "min": 30000,
+                "min": 25000,
                 "max": 35000
             },
             "state": "Stable",
-            "last_updated": "04/Apr/2023",
+            "last_updated": "12/Jul/2023",
             "url": "wearables/IMG_209"
         }
     },
