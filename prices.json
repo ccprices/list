@@ -9868,11 +9868,11 @@
             "section": "Halloween",
             "name": "Grey Plague Doctor",
             "price": {
-                "min": 4000,
-                "max": 5000
+                "min": 3000,
+                "max": 4500
             },
             "state": "Stable",
-            "last_updated": "14/Mar/2023",
+            "last_updated": "12/Jul/2023",
             "url": "wearables/IMG_393"
         }
     },
