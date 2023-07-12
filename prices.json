@@ -5210,11 +5210,11 @@
             "section": "Easter",
             "name": "Easter Umbrella",
             "price": {
-                "min": 1500000,
-                "max": 1600000
+                "min": 1300000,
+                "max": 1500000
             },
             "state": "Stable",
-            "last_updated": "26/Apr/2023",
+            "last_updated": "12/Jul/2023",
             "url": "wearables/IMG_197"
         }
     },
