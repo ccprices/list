@@ -4836,11 +4836,11 @@
             "section": "April Fools' Day",
             "name": "Lesser Fool's Cap",
             "price": {
-                "min": 20000,
-                "max": 25000
+                "min": 17500,
+                "max": 22500
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "12/Jul/2023",
             "url": "wearables/IMG_210"
         }
     },
