@@ -6519,8 +6519,8 @@
             "section": "Easter",
             "name": "Rainbow Wings",
             "price": {
-                "min": 5000,
-                "max": 7000
+                "min": 7000,
+                "max": 15000
             },
             "state": "Increasing",
             "last_updated": "12/Jul/2023",
