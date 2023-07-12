@@ -6706,8 +6706,8 @@
             "section": "Easter",
             "name": "Rainbow Backpack",
             "price": {
-                "min": 35000,
-                "max": 45000
+                "min": 60000,
+                "max": 80000
             },
             "state": "Increasing",
             "last_updated": "12/Jul/2023",
