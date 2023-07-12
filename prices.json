@@ -5211,7 +5211,7 @@
             "name": "Easter Umbrella",
             "price": {
                 "min": 1300000,
-                "max": 1500000
+                "max": 1400000
             },
             "state": "Stable",
             "last_updated": "12/Jul/2023",
