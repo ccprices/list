@@ -8100,11 +8100,11 @@
             "section": "Valentine's Day",
             "name": "Heart Eyes",
             "price": {
-                "min": 10000,
-                "max": 12500
+                "min": 7000,
+                "max": 10000
             },
             "state": "Stable",
-            "last_updated": "18/Mar/2023",
+            "last_updated": "12/Jul/2023",
             "url": "wearables/IMG_853"
         }
     },
