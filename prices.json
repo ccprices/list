@@ -10685,10 +10685,10 @@
             "name": "Dinosaur Hood",
             "price": {
                 "min": 1500,
-                "max": 2500
+                "max": 3000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "12/Jul/2023",
             "url": "wearables/IMG_731"
         }
     },
