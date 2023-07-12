@@ -9800,11 +9800,11 @@
             "section": "Halloween",
             "name": "Cyclobee Head",
             "price": {
-                "min": 7000,
+                "min": 5000,
                 "max": 8000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "12/Jul/2023",
             "url": "wearables/IMG_316"
         }
     },
