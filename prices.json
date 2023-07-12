@@ -6791,8 +6791,8 @@
             "section": "Easter",
             "name": "Rabbit Backpack",
             "price": {
-                "min": 15000,
-                "max": 20000
+                "min": 20000,
+                "max": 25000
             },
             "state": "Stable",
             "last_updated": "12/Jul/2023",
