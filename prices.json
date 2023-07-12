@@ -11925,11 +11925,11 @@
             "section": "Christmas",
             "name": "Cheap fake Krampus",
             "price": {
-                "min": 12500,
-                "max": 17500
+                "min": 10000,
+                "max": 13000
             },
             "state": "Stable",
-            "last_updated": "14/Mar/2023",
+            "last_updated": "12/Jul/2023",
             "url": "wearables/IMG_289"
         }
     },
