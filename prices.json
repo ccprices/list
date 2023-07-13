@@ -8814,8 +8814,8 @@
             "section": "Fan",
             "name": "Yellow Angel Wings",
             "price": {
-                "min": 2000,
-                "max": 2500
+                "min": 3000,
+                "max": 6000
             },
             "state": "Increasing",
             "last_updated": "13/Jul/2023",
