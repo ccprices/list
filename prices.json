@@ -8358,8 +8358,8 @@
                 "min": 150000,
                 "max": 200000
             },
-            "state": "Decreasing",
-            "last_updated": "08/May/2023",
+            "state": "Stable",
+            "last_updated": "13/Jul/2023",
             "url": "wearables/IMG_313"
         }
     },
