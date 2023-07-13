@@ -8406,11 +8406,11 @@
             "section": "Summer",
             "name": "Hairy Guy On The Beach Chest",
             "price": {
-                "min": 50000,
-                "max": 60000
+                "min": 30000,
+                "max": 40000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "13/Jul/2023",
             "url": "wearables/IMG_308"
         }
     },
