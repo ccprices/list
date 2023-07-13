@@ -171,11 +171,11 @@
             "section": "Pet",
             "name": "Level 49 Kitty Kennel",
             "price": {
-                "min": 8000,
+                "min": 7000,
                 "max": 10000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "13/Jul/2023",
             "url": "pets/00494_cropped"
         }
     },
