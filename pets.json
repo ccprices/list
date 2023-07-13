@@ -657,11 +657,11 @@
             "section": "Christmas",
             "name": "Level 0 Elf Hut",
             "price": {
-                "min": 80000,
-                "max": 90000
+                "min": 75000,
+                "max": 85000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "13/Jul/2023",
             "url": "pets/00576_cropped"
         }
     },
