@@ -8338,8 +8338,8 @@
             "section": "Summer",
             "name": "UV Shades",
             "price": {
-                "min": 600000,
-                "max": 700000
+                "min": 650000,
+                "max": 750000
             },
             "state": "Increasing",
             "last_updated": "13/Jul/2023",
