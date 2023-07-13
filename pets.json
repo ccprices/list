@@ -10,7 +10,7 @@
             "name": "Level 0 Ram Kennel",
             "price": {
                 "min": 4500000,
-                "max": 500000
+                "max": 5000000
             },
             "state": "Stable",
             "last_updated": "13/Jul/2023",
