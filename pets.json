@@ -9,11 +9,11 @@
             "section": "Pet",
             "name": "Level 0 Ram Kennel",
             "price": {
-                "min": 3500000,
-                "max": 4000000
+                "min": 4500000,
+                "max": 500000
             },
             "state": "Stable",
-            "last_updated": "17/Dec/2022",
+            "last_updated": "13/Jul/2023",
             "url": "pets/00496_cropped"
         }
     },
