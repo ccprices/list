@@ -8763,11 +8763,11 @@
             "section": "Fan",
             "name": "Devil's Halo",
             "price": {
-                "min": 40000,
-                "max": 50000
+                "min": 50000,
+                "max": 60000
             },
             "state": "Stable",
-            "last_updated": "27/Mar/2023",
+            "last_updated": "13/Jul/2023",
             "url": "wearables/IMG_711"
         }
     },
